@@ -4,3 +4,7 @@
 .DS_Store
 
 .ipynb_checkpoints/
+
+reconstructed_above_2kHz.wav
+
+reconstructed_below_2kHz.wav
